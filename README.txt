@@ -28,7 +28,7 @@
 
 15_Instructions and Packages.txt - Necessary Python/R packages and installation information.
 
-16_DEMO_INPUT.h5ad - h5ad DEMO input file for the first (Preprocessing) code. Can be found on our website: https://breastscape.twix.technion.ac.il/
+16_DEMO_INPUT.h5ad - h5ad DEMO input file for the first (Preprocessing) code (DEMO_1). Can be found on our website: https://breastscape.twix.technion.ac.il/
 
-17_DEMO_after_preprocessing.h5ad - h5ad DEMO output file for the first (Preprocessing) code. Can be found on our website: https://breastscape.twix.technion.ac.il/
+17_DEMO_after_preprocessing.h5ad - h5ad DEMO output file for the first (Preprocessing) code (DEMO_2). Can be found on our website: https://breastscape.twix.technion.ac.il/
 
