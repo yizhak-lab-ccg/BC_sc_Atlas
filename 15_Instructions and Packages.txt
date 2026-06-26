@@ -1,0 +1,60 @@
+The following packages were used in our analysis:
+
+**Python codes**:
+Package:             Version
+anndata              0.12.2
+liana                1.6.1
+matplotlib           3.10.0
+networkx             3.4.2
+numpy                2.1.3
+pandas               2.2.3
+scanpy               1.11.4
+scipy                1.15.3
+scrublet             0.2.3*requires Microsoft C++ Build Tools can be downloaded here:https://visualstudio.microsoft.com/visual-cpp-build-tools/
+seaborn              0.13.2
+statsmodels          0.14.5
+bbknn                1.6.0
+matplotlib           3.10.0
+scipy                1.15.3
+lifelines            0.30.0
+cnmf                 1.7.0             
+
+Python: 3.13.5
+To install them, the command `pip install` can be used in **Jupyter Notebook**.
+
+Installation time may vary between 10 and 30 minutes.
+
+**R codes**:
+
+*tidyverse : 2.0.0 
+*dplyr : 1.1.4 
+*RColorBrewer : 1.1.3 
+*colorRamps : 2.3.4 
+*ggplot2 : 3.5.2 
+*NbClust : 3.0.1 
+*gridExtra : 2.3 
+*circlize : 0.4.16 
+*gplots : 3.2.0 
+*Exact : 3.3 
+*ClusterR : 1.3.3 
+*stats : 4.5.1 
+*amap : 0.8.20 
+*Hmisc : 5.2.3 
+*ggpubr : 0.6.1 
+*data.table : 1.17.8 
+*plotrix : 3.8.4 
+*infercnv : 1.20.0
+*anndata : 0.8.0 
+*survival : 3.8.3 
+*survminer : 0.5.0 
+
+RStudio version: 2025.5.1.513 
+R version 4.3.3
+
+To install them, the command `install.packages` can be used in **RStudio**.
+Installation time may vary between 20 and 60 minutes depending on the packages already installed.
+
+The code should be executed in the numerical order specified in the README text file.
+One original .h5ad dataset named "DEMO_INPUT.h5ad" was uploaded as an example for the first step of preprocessing.
+The expected Run time is: 3:15 minutes the expected output was uploaded as:'DEMO_after_preprocessing.h5ad'
+
